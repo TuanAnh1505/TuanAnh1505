@@ -1,16 +1,17 @@
-## Hi there 👋
+< h1 align = "giữa" > Hi 👋, Tôi là Tuấn Anh < / h1 >
+< h3 align = "giữa" > Một nhà phát triển đam mê từ VietNam < / h3 >
 
-<!--
-**TuanAnh1505/TuanAnh1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+< p align = "left" > < img src = "https://komarev.com/ghpvc/?username=tuananh1505&label=Profile%20views&color=0e75b6&style=flat" alt =" tuananh1505 "/ > < / p >
 
-Here are some ideas to get you started:
+< p align = "left" > < a href = "https://github.com/ryo-ma/github-profile-trophy"><img src = alt https://github-profile-trophy.vercel.app/?username=tuananh1505"" tuananh1505 "/ = > < >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+< h3 align = "left" > Kết nối với tôi: < / h3 >
+< p căn chỉnh = "trái" >
+< / p >
+
+< h3 align = "left" > Ngôn ngữ và công cụ: < / h3 >
+< p căn chỉnh = "trái" > < a href = "https://developer.android.com" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt =" android "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.chartjs.org" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://www.chartjs.org/media/logo-title.svg" alt =" chartjs "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.w3schools.com/css/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com / devicons / devicon / master / icon / css3 / css3-origen-wordmark.svg "alt =" css3 "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.docker.com/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt =" docker "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://flutter.dev" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt =" flutter "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://git-scm.com/" Target = "_blank" rel = "noreferrer" > < img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt =" git "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.w3.org/html/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt =" html5 "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.java.com" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt ="java "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt =" javascript "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.mongodb.com/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt =" mongodb "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.mysql.com/ "mục tiêu =" _blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt =" mysql "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://nodejs.org" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt =" nodejs "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.python.org" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com / devicons / devicon / master / icon / python / python-origen.svg "alt =" python "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://www.rabbitmq.com" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt =" rabbitMQ "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a > < a href = "https://reactjs.org/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt =" chiều rộng "phản ứng" = chiều cao "40" = "40" / > < / a > < a href = "https://reactnative.dev/" Target = "_blank" rel = "noreferrer" > < img src = "https://reactnative.dev/img/header_logo.svg" alt =" chiều rộng "phản ứng" = "40" chiều cao = "40" / > < / a > < a href = "https://spring.io/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt =" chiều rộng lò xo = "40" chiều cao = "40" / > < / a > < a href = "https://unity.com/" mục tiêu =" _blank "rel =" noreferer "> < img src = "https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt =" unity "chiều rộng =" 40 "chiều cao =" 40 "/ > < / a >< / p >
+
+< p > < img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=tuananh1505&show_icons=true&locale=en&layout=compact" alt =" tuananh1505 "/ > < / p >
+
+< p > & nbsp; < img align = "center" src = "https://github-readme-stats.vercel.app/api?username=tuananh1505&show_icons=true&locale=en" alt =" tuananh1505 "/ > < / p >
